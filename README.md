@@ -25,8 +25,8 @@ Speedy-Rental is a web app for an agency that specializes in renting cars
 - [TypeScript](https://www.typescriptlang.org/) – Language
 - [Tailwind](https://tailwindcss.com/) – CSS
 - [Email.js](https://www.emailjs.com/) – Email notifications
-- [Google Maps]([https://next-auth.js.org/](https://developers.google.com/maps/documentation/javascript/overview)) – Locations
-- [GSAP]([https://next-auth.js.org/](https://gsap.com/)) – Animations
+- [Google Maps](https://developers.google.com/maps/documentation/javascript/overview) – Locations
+- [GSAP](https://gsap.com/) – Animations
 
 ## Getting Started
 
